@@ -51,4 +51,8 @@ Copy completed from '/home/user/source_folder' to '/home/user/destination_folder
 ## Requirements
 - Bash (Linux/Mac)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
