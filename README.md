@@ -1,4 +1,4 @@
-
+---
 # Directory Copy Script
 
 This script copies files and directories from a source directory to a destination directory while maintaining the original directory structure. It recursively traverses through subdirectories and copies both files and folders to the target location.
@@ -51,5 +51,4 @@ Copy completed from '/home/user/source_folder' to '/home/user/destination_folder
 ## Requirements
 - Bash (Linux/Mac)
 
-## License
-This script is provided as-is under the MIT License.
+---
